@@ -48,8 +48,6 @@
         printf("Pib é: %.3f\n", pib);
         printf("Número de Pontos Turísticos e: %d\n", numeroPontosTuristicos);
     
-    
-
     return 0;
 
     }
